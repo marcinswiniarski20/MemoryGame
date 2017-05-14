@@ -1,0 +1,25 @@
+Dawid Szalwinski
+Marcin Swiniarski
+Jakub Skrzypczak
+
+Nasz pomysl to gra typu memory realizowana w technologii WPF.
+Gra jest Wam pewnie znajoma :) Wszystko polega na znalezieniu dwóch takich samych obrazków, które pocz¹tkowo s¹ za³soniête.
+
+
+Podzial pracy:
+
+Design (Dawid):
+- przygotowanie interface'u okna
+- przygotowanie obrazków
+- animacje
+- po³¹czenie z tego z kodem
+
+Podloze dzialania (Kuba, Marcin):
+- mechanizm losowego rozmieszczania obrazków
+- mechanizm poprawnego dzialania gry
+- timer
+- punktacja
+- ranking(?)
+ (o ile sie uda)
+
+Sa to wstêpne informacje, lecz nie powinny ulec zmianie.
